@@ -5,7 +5,7 @@ Steps to run the scenario generation workflow:
 
 1. Install the environment.
 2. Run the Snakemake workflow. By default, the get_results option in the config file is set to True, which overrides the scenario generation and downloads the results from [Zenodo](https://zenodo.org/records/13619460). Set it to False to run the scenario generation workflow.
-3. Run aggregate_data.ipynb to analyze the reproduce the plots
+3. Run aggregate_data.ipynb to  reproduce the plots
 
 The contingency scenario generation workflow follows this structure:
 
