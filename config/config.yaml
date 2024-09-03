@@ -1,5 +1,7 @@
 co2_price: 130 # €/t
 
+get_results: True #if True the the scenario generation is not run and the results is downloaded from https://zenodo.org/records/13619460
+
 countries:
  - DE:
    - bus: 20
